@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tatcheff.box.BoxTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-09T15:38:10" hostname="ANGEL-GAMING-RI" time="0.024">
-  <properties/>
-  <testcase name="testIncreaseDimensions_valueIsNegative()" classname="tatcheff.box.BoxTest" time="0.018"/>
-  <testcase name="testIncreaseDimensions_valueIsValid_shouldIncreaseDimensions()" classname="tatcheff.box.BoxTest" time="0.002"/>
-  <testcase name="testIncreaseDimensions_valueIsGreaterThan100()" classname="tatcheff.box.BoxTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
