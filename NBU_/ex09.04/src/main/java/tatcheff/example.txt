@@ -1,0 +1,1 @@
+Goods [name=Name2, price=10.5]
